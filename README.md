@@ -25,13 +25,23 @@ The system allows users to manage library books and users efficiently through a 
 ---
 
 ## Project Structure
-Library-Management-System-Java/
-│
-├── Main.java         # Entry point of the application
-├── Book.java         # Book class with attributes and methods
-├── Library.java      # Library class managing all books
-├── User.java         # User class representing library members
-└── README.md         # Project documentation
+- **Main.java** – Entry point of the application
+- **Book.java** – Book class with attributes and methods
+- **Library.java** – Library class managing all books
+- **User.java** – User class representing library members
+
+---
+
+## Usage
+-Follow the on-screen menu to add, issue, return, or search books.
+-Enter inputs as prompted in the console.
+
+---
+
+## Future Improvements
+-Add GUI interface
+-Connect to a database for persistent storage
+-Add user authentication
 
 ---
 
