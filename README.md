@@ -24,7 +24,20 @@ The system allows users to manage library books and users efficiently through a 
 
 ---
 
+## Project Structure
+Library-Management-System-Java/
+│
+├── Main.java         # Entry point of the application
+├── Book.java         # Book class with attributes and methods
+├── Library.java      # Library class managing all books
+├── User.java         # User class representing library members
+└── README.md         # Project documentation
+
+---
+
 ## How to Run
 1. Clone the repository:  
 ```bash
 git clone https://github.com/Khwaish0512/Library-Management-System-Java.git
+
+---
