@@ -33,15 +33,15 @@ The system allows users to manage library books and users efficiently through a 
 ---
 
 ## Usage
--Follow the on-screen menu to add, issue, return, or search books.
--Enter inputs as prompted in the console.
+- Follow the on-screen menu to add, issue, return, or search books.
+- Enter inputs as prompted in the console.
 
 ---
 
 ## Future Improvements
--Add GUI interface
--Connect to a database for persistent storage
--Add user authentication
+- Add GUI interface
+- Connect to a database for persistent storage
+- Add user authentication
 
 ---
 
